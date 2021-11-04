@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azucker99
 - 👀 I’m interested in Data Science and natural language processing
-- 🌱 I’m currently learning spaCy
+- 🌱 I’m currently learning spaCy and TensorFlow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
